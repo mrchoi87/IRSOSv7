@@ -1,0 +1,15 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "farmos",
+    "password": "farmosv2@",
+    "db": "farmos"
+  },
+  "mqtt": {
+    "host": "localhost",
+    "port": 1883,
+    "keepalive": 60,
+    "svc" : "cvtgate"
+  },
+  "sleep" : 1
+}
